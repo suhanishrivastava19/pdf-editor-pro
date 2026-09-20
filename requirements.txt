@@ -1,0 +1,6 @@
+PyMuPDF>=1.24.0
+Pillow>=10.0.0
+customtkinter>=5.2.2
+# Dev / build
+pytest>=8.0.0
+pyinstaller>=6.0.0
