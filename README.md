@@ -41,7 +41,7 @@ Originals are **never overwritten** — every operation writes a new file.
 Requires **Python 3.11+**.
 
 ```bash
-git clone https://github.com/<your-username>/pdf-editor-pro.git
+git clone https://github.com/suhanishrivastava19/pdf-editor-pro.git
 cd pdf-editor-pro
 
 python -m venv .venv
